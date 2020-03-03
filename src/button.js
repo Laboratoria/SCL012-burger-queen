@@ -1,16 +1,21 @@
 import React from 'react';
 
-
-function Button(props) {
+export function Button(props) {
   return   <header className='App-header'>
-    <div className="btnInit">
-    <button type="button" className="btn btn-success btn-lg">Garzón</button>
-    <button type="button" className="btn btn-danger btn-lg">Cocina</button>
+    <div>
+    <button type="button" className="btn btn-success btn-lg">Desayunos</button>
+    {/* <button type="button" className="btn btn-danger btn-lg">Cocina</button> */}
     </div>
+
   </header>;
 }
+export function Almuerzos (props) {
+  return <header className='App-header'>
+  <div>
+  <button type="button" className="btn btn-danger btn-lg">Almuerzos</button>
+  {/* <button type="button" className="btn btn-danger btn-lg">Cocina</button> */}
+  </div>
 
-
-
-export default Button;
-
+</header>;
+}
+// export default Button;

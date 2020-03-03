@@ -15,54 +15,43 @@
 
     
   ],
-    "todoeldia": [
-      {"almuerzo":"Hamburguesa Simple $",
+    "comidas": [
+      {"name":"Hamburguesa Simple $",
         "precio": 1000},
         
-      { "almuerzo":"Hamburguesa Doble $",
+      { "name":"Hamburguesa Doble $",
         "precio":1500},
 
-      { "almuerzo": "Papas Fritas",
+      { "name": "Papas Fritas $",
         "precio":500
       }, 
 
       {
-        "almuerzo":"Aros de cebolla",
+        "name":"Aros de cebolla $",
         "precio":500
       },
       
       {
-        "almuerzo":"Agua 500 ml $",
+        "name":"Agua 500 ml $",
         "precio":500
 
       },
       {
-        "almuerzo":"Agua 750 ml $",
+        "name":"Agua 750 ml $",
         "precio":700
 
       },
       {
-        "almuerzo":"Bebida gaseosa 500 ml$",
+        "name":"Bebida gaseosa 500 ml$",
         "precio":700
 
       },
       {
-        "almuerzo":"Bebida gaseosa 500 ml$",
+        "name":"Bebida gaseosa 500 ml$",
         "precio":1000
 
       }
-
-
-       
-        
-      
-      
-     
-      
-
     ]
- 
-  
-  
+   
 
 }

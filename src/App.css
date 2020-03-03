@@ -1,42 +1,4 @@
 body{
   background: url("https://images.assetsdelivery.com/compings_v2/mironovak/mironovak1505/mironovak150500116.jpg");
-  
 
-
-}
-.App {
-  text-align: center;
-
-}
-
-
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-image: url(./imagenes/WhatsApp\ Image\ 2020-02-25\ at\ 15.50_edited.jpg);
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-} */
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
 }
