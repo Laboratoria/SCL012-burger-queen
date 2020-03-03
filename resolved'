@@ -1,0 +1,12 @@
+[1mdiff --cc src/App.css[m
+[1mindex 2aadbc0,729f5f4..0000000[m
+[1m--- a/src/App.css[m
+[1m+++ b/src/App.css[m
+[1mdiff --cc src/button.js[m
+[1mindex c4e118f,54c1f19..0000000[m
+[1m--- a/src/button.js[m
+[1m+++ b/src/button.js[m
+[1mdiff --cc src/index.js[m
+[1mindex a59fdd2,87d1be5..0000000[m
+[1m--- a/src/index.js[m
+[1m+++ b/src/index.js[m
