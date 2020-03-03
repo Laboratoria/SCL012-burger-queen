@@ -7,8 +7,10 @@ function Button(props) {
     <button type="button" className="btn btn-success btn-lg">Garzón</button>
     <button type="button" className="btn btn-danger btn-lg">Cocina</button>
     </div>
-
   </header>;
 }
+
+
+
 export default Button;
 

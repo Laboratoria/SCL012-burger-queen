@@ -1,0 +1,68 @@
+{
+  "desayuno":[
+    {
+      "nombre":"Cafe Americano $",
+      "precio": 500},
+      
+      {"nombre": "cafe/leche $",
+      "precio": 700},
+      
+      {"nombre":"Sandwich jamón y queso $",
+      "precio": 1000},
+     
+      { "nombre":"Jugos de frutas naturales $",
+      "precio":700}
+
+    
+  ],
+    "todoeldia": [
+      {"almuerzo":"Hamburguesa Simple $",
+        "precio": 1000},
+        
+      { "almuerzo":"Hamburguesa Doble $",
+        "precio":1500},
+
+      { "almuerzo": "Papas Fritas",
+        "precio":500
+      }, 
+
+      {
+        "almuerzo":"Aros de cebolla",
+        "precio":500
+      },
+      
+      {
+        "almuerzo":"Agua 500 ml $",
+        "precio":500
+
+      },
+      {
+        "almuerzo":"Agua 750 ml $",
+        "precio":700
+
+      },
+      {
+        "almuerzo":"Bebida gaseosa 500 ml$",
+        "precio":700
+
+      },
+      {
+        "almuerzo":"Bebida gaseosa 500 ml$",
+        "precio":1000
+
+      }
+
+
+       
+        
+      
+      
+     
+      
+
+    ]
+ 
+  
+  
+
+}
