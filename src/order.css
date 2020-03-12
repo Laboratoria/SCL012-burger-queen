@@ -1,0 +1,29 @@
+
+.card{
+
+  background-color: rgba(15, 15, 15, 0.5);
+  width: 10%;
+  position: absolute;
+  right: 40%;
+  bottom: 350px;
+}
+
+#sendToKitchen{
+
+  opacity: 0.8;
+}
+
+
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) {
+
+.card{
+
+  background-color: rgba(15, 15, 15, 0.5);
+  width:40%;
+  right: 60%;
+}
+  
+}
+
