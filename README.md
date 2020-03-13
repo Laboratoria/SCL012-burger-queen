@@ -1,68 +1,53 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# Burguer Queen
 
-## Available Scripts
+Aplicación desarrollada para facilitar el servicio de atención en un pedido de restorant, donde el mesero podrá tomar la orden del cliente de forma facil y rapida, comunicandose con el cocinero el cual podrá tomar la orden cocinarla para luego dar aviso de la entrega, habiendo finalizado el proceso con el pedido llevado a la mesa.
 
-In the project directory, you can run:
+## Flujo del proyecto
 
-### `npm start`
+Flujo sobre el proceso que pensamos que deberia llevar a cabo nuestra aplicación al ser desarrollada.
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+![Flujo](./src/img/flujo.png "Flujo")
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
+## Historias de Usarios
 
-### `npm test`
+[Historia de usuario 1] Mesero/a debe poder tomar pedido de cliente
+Yo como meserx quiero tomar el pedido de un cliente para no depender de mi mala memoria, para saber cuánto cobrar, y enviarlo a la cocina para evitar errores y que se puedan ir preparando en orden.
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Proceso de diseño
 
-### `npm run build`
+### Prototipo de baja fidelidad
 
-Builds the app for production to the `build` folder.<br />
-It correctly bundles React in production mode and optimizes the build for the best performance.
+![Flujo](./src/img/Prot_6.png "Flujo")
 
-The build is minified and the filenames include the hashes.<br />
-Your app is ready to be deployed!
+![Flujo](./src/img/Prot_7.png "Flujo")
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+### Prototipo de Alta fidelidad
 
-### `npm run eject`
+![Flujo](./src/img/Prot_1.jpg "Flujo")
 
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
+![Flujo](./src/img/Prot_2.jpg "Flujo")
 
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+![Flujo](./src/img/Prot_3.jpg "Flujo")
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
+![Flujo](./src/img/Prot_4.png "Flujo")
 
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
+![Flujo](./src/img/Prot_5.png "Flujo")
 
-## Learn More
+## Test de Usabilidad
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+[![](https://www.loom.com/share/50a5526f80c245c5905ccc216ca73121)]()
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+https://www.loom.com/share/50a5526f80c245c5905ccc216ca73121
 
-### Code Splitting
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/code-splitting
+## Planificación
 
-### Analyzing the Bundle Size
+Toda nuestra planificación fue creada en Github, proyectos.
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
+![Planificación](./src/img/planificacion.jpg "Planificación")
 
-### Making a Progressive Web App
+### Página Burger Queen
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
+https://burger-queen-4ac86.firebaseapp.com/OrdersB
 
-### Advanced Configuration
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/advanced-configuration
-
-### Deployment
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/deployment
-
-### `npm run build` fails to minify
-
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify

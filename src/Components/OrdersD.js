@@ -39,7 +39,6 @@ class Dinner extends Component {
 
       </div>
     )
-
   }
 }
 export default Dinner;

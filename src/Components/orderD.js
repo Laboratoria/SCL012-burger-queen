@@ -1,9 +1,8 @@
 import React, { Component } from 'react';
 import NewOrder from '../Components/NewOrderD'
-import Header from './header.js'
 import '../css/Menu.css';
 import FinalOrder from '../Components/FinalOrderD.js'
-import { Button, Container, Row, Col } from 'react-bootstrap'
+
 
 
 class Dinner extends Component {
