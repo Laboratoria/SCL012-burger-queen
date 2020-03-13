@@ -1,0 +1,54 @@
+
+.Tittle-App{
+    margin-top: -96px;  
+    font-family: Roboto Slab;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 30px;
+    line-height: 66px;
+    margin-right: 310px;
+}
+.ClientInput{
+    position: absolute;
+    right: 440px;
+    top: 115px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.NumTable{
+    position: absolute;
+    right:  440px;
+    top: 160px;
+    background: #FFFFFF;
+    opacity: 0.6;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+.BtnBreak{
+    margin-top: 100px;
+    margin-right: 320px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;
+}
+.styleBreak{
+margin-bottom: 10px;
+}
+.InputNewOrder{
+    background-color: #97A233;
+    border-radius: 10px;
+}
+.tittlePedidos{
+position: absolute;
+top:50px;
+right: 0px;
+}
+.FinalOrder{
+    position: absolute;
+    top: 130px;
+    right: 10px;
+    background-color:#697C37;
+    width: 300px;
+    height: 330px;
+    padding-left: 20px;
+    border-radius: 10px;
+}

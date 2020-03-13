@@ -1,0 +1,21 @@
+.backgroundMenu{
+    background-image:url("../img/fondo1.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    flex-direction: column;
+    opacity: 0.9;
+}
+.TittleHam{
+    margin-right: 900px;
+}
+.tittleOrder{
+   display: flex;
+   justify-content: center;
+   margin-top: -80px;
+}
