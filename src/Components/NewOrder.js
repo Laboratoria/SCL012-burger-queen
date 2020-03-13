@@ -72,25 +72,25 @@ class NewOrder extends Component {
                         />
                     </div>
                     <div className="BtnBreak">
-                    <div className="styleBreak">
-                        
-                        <Button variant="warning" size="lg" block name="cafeAmericano" onClick={this.handleClick}
-                        > Cafe Americano $500</Button>
+                        <div className="styleBreak">
+
+                            <Button variant="warning" size="lg" block name="cafeAmericano" onClick={this.handleClick}
+                            > Cafe Americano $500</Button>
+                        </div>
+                        <div className="styleBreak">
+                            <Button variant="warning" size="lg" block name="cafeLeche" onClick={this.handleClick}
+                            >Cafe con Leche $700</Button>
+                        </div>
+                        <div className="styleBreak">
+                            <Button variant="warning" size="lg" block name="sandwich" onClick={this.handleClick}
+                            >Sandwich de jamón y queso $1000</Button>
+                        </div>
+                        <div className="styleBreak">
+                            <Button variant="warning" size="lg" block name="jugo" onClick={this.handleClick}
+                            >Jugo de frutas natural $700</Button>
+                        </div>
                     </div>
-                    <div className="styleBreak">
-                        <Button variant="warning" size="lg" block name="cafeLeche" onClick={this.handleClick}
-                        >Cafe con Leche $700</Button>
-                    </div>
-                    <div  className="styleBreak">
-                        <Button variant="warning" size="lg" block name="sandwich" onClick={this.handleClick}
-                        >Sandwich de jamón y queso $1000</Button>
-                    </div>
-                    <div className="styleBreak">
-                        <Button variant="warning" size="lg" block name="jugo" onClick={this.handleClick}
-                        >Jugo de frutas natural $700</Button>
-                    </div>
-                    </div>
-                    <input className="InputNewOrder"  type="submit" value="Agregar nuevo pedido" />
+                    <input className="InputNewOrder" type="submit" value="Agregar nuevo pedido" />
 
                 </form>
             </div>

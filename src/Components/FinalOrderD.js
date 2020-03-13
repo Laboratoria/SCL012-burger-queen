@@ -1,5 +1,5 @@
 import React from 'react';
-import OrderList from './OrderListD'
+import OrderList from './OrderListD.js'
 
 const FinalOrder = ({ orderLists, eliminateOrder }) => {
     return (
