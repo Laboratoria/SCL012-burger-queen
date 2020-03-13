@@ -29,7 +29,7 @@ class Breakfast extends Component {
         return (
             <div className='backgroundMenu'>
                 <div>
-                    <Header  titulo='Menu Desayuno' />
+                    <Header titulo='Menu Desayuno' />
                 </div>
                 <div className="PhotoBreakfast"></div>
                 <div >

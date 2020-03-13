@@ -1,7 +1,7 @@
 import React, { Component } from 'react';
-import NewOrder from '../Components/NewOrderD'
+import NewOrder from './NewOrderD.js'
 import '../css/Menu.css';
-import FinalOrder from '../Components/FinalOrderD.js'
+import FinalOrder from './FinalOrderD.js'
 
 
 

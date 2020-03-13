@@ -18,7 +18,7 @@ class Menu extends Component {
           </Link>
         </div>
         <div className='Breakfast'>
-          <Link to="/OrdersD">
+          <Link to="/OrderD">
             <Button variant="warning" size="lg" block>Almuerzo o Cena</Button>
           </Link>
         </div>
